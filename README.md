@@ -1,6 +1,6 @@
 # Dynamo
 
-[![Build Status](https://travis-ci.org/dynamo/dynamo.png?branch=master)](https://travis-ci.org/dynamo/dynamo)
+[![Build Status](https://travis-ci.org/herenowcoder/dynamo.png?branch=master)](https://travis-ci.org/herenowcoder/dynamo)
 
 Run, Dynamo, Run!
 

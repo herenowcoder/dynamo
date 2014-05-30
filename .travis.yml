@@ -1,7 +1,4 @@
 language: erlang
-notifications:
-  recipients:
-    - devin@devintorr.es
 otp_release:
   - 17.0
 before_install:
